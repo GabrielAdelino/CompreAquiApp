@@ -1,0 +1,2 @@
+O PromoAqui é um APP de promoções que reúne em um só lugar todas as promoções do supermercado Eldorado da cidade do Gama, Distrito Federal. 
+Tem como objetivo proporcionar aos usuários buscas por descontos e ofertas de forma simples e ágil, gerando novas oportunidades aos clientes e supermercados, com o intuito de promover aumento expressivo nas vendas dos supermercados e aumento na economia dos clientes. 
